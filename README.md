@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#########################################
+
+
+This is an assignment part of the odin project: https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails-basics
